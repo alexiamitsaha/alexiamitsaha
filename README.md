@@ -45,12 +45,12 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
 
 - **Working Experience**:
 
-    ![Bkash](https://www.bkash.com/)
-    ![Amar desh amar gram](https://amardesheshop.com/)
-    ![Tahoor Studio](https://tahoorstudio.com/)
-    ![StudyXpress](https://www.studyxpressltd.com/)
-    ![SkyXpress](https://www.skyxpressltd.com/)
-    ![ARTMINE Bangladesh](http://artminebd.com/)
+    >>[Bkash](https://www.bkash.com/)<br>
+    >>[Amar desh amar gram](https://amardesheshop.com/)<br>
+    >>[Tahoor Studio](https://tahoorstudio.com/)<br>
+    >>[StudyXpress](https://www.studyxpressltd.com/)<br>
+    >>[SkyXpress](https://www.skyxpressltd.com/)<br>
+    >>[ARTMINE Bangladesh](http://artminebd.com/)<br>
 
 <br>
 
@@ -78,4 +78,4 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
   
   [![](https://github-readme-activity-graph.cyclic.app/graph?username=alexiamitsaha)](https://github.com/alexiamitsaha)
 
-  <img src="https://media.giphy.com/media/XHqWe6rLyokpg1qcFO/giphy.gif" width="90%" height="150" align="center">
+  <img src="https://giphy.com/clips/studiosoriginals-thanks-r7GrCqj3H1ZxlDuwoL" width="90%" align="center">
