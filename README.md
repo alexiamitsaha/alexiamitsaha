@@ -54,6 +54,7 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
     >>[ARTMINE Bangladesh](http://artminebd.com/)<br>
 
 <br>
+
 - **Softwares and Tools**:
 
     ![intellij](https://img.shields.io/badge/intellij-%234285F4.svg?style=for-the-badge&logo=intellij&logoColor=white)
