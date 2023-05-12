@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://pixabay.com/gifs/appear-hello-wave-4500/" width="20%">
+<img src="https://media.giphy.com/media/4t4NGBKw0XQOBXoe5F/giphy.gif" width="20%">
 </p>
 
 <p align="center"> 
@@ -77,4 +77,4 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
   
   [![](https://github-readme-activity-graph.cyclic.app/graph?username=alexiamitsaha)](https://github.com/alexiamitsaha)
 
-  <img src="https://media.giphy.com/media/XHqWe6rLyokpg1qcFO/giphy.gif" width="90%" align="center">
+  <img src="https://media.giphy.com/media/XHqWe6rLyokpg1qcFO/giphy.gif" width="90%" height="90" align="center">
