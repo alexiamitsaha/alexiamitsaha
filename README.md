@@ -13,7 +13,8 @@
 <br>
 I am a Full-Stack Quality Assurance Engineer, practicing QA principles and methodologies, and quite a long time of full-stack testing efforts & hands-on coding, leading with the ability to collaborate with software development in all phases of the SDLC & STLC, including planning, coding, testing, troubleshooting, deploying, and ongoing QA full-stack automation code maintenance & delivering right product on time.
 <br>
-Expertise in Tech Stack: 
+<br>
+Expertise in Tech Stack: <br>
 Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Framework: Selenium, Cypress IO, Rest Assured, Agile-Scrum, JIRA, Xray, SQL, POSTMAN, Figma, JSON, HTML, JMeter (Backend, AWS S3 Storage & UI Load & Stress test), MySQL, PostgreSQL, DBeaver, PGAdmin.
 
 
