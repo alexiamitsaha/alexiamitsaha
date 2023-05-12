@@ -25,7 +25,7 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
 - Linkdin ID (https://www.linkedin.com/in/amit-saha-41a012191/)<br>
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 
 - **Quality Assurance Tech Stack:**
 
@@ -43,6 +43,7 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
    ![RestAssured](https://img.shields.io/badge/-RestAssured-green)</br>
 
 <br>
+><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 - **Working Experience**:
 
