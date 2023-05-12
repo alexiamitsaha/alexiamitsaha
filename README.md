@@ -18,9 +18,10 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
 
 
 <br>
-- I’m Currently Open for an Independent contributor Job Opportunity.
-- My Portfolio [Link](https://amitsaha.carrd.co/)
-- Linkdin ID [Link](https://www.linkedin.com/in/amit-saha-41a012191/)
+<br>
+- I’m Currently Open for an Independent contributor Job Opportunity.<br>
+- My Portfolio [Link](https://amitsaha.carrd.co/)<br>
+- Linkdin ID [Link](https://www.linkedin.com/in/amit-saha-41a012191/)<br>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -77,4 +78,4 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
   
   [![](https://github-readme-activity-graph.cyclic.app/graph?username=alexiamitsaha)](https://github.com/alexiamitsaha)
 
-  <img src="https://media.giphy.com/media/XHqWe6rLyokpg1qcFO/giphy.gif" width="90%" height="90" align="center">
+  <img src="https://media.giphy.com/media/XHqWe6rLyokpg1qcFO/giphy.gif" width="90%" height="150" align="center">
