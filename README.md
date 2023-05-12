@@ -38,7 +38,7 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
    ![GitHub](https://img.shields.io/badge/-GITHUB-Black)
    ![Selenium](https://img.shields.io/badge/-SELENIUM-green)
    ![WebDriverIO](https://img.shields.io/badge/-WebDriverIO-red)
-   ![CypressIO](https://img.shields.io/badge/-CypressIO-Black)</br>
+   ![CypressIO](https://img.shields.io/badge/-CypressIO-Black)
    ![PlayWright](https://img.shields.io/badge/-PlayWright-green)
    ![RestAssured](https://img.shields.io/badge/-RestAssured-green)</br>
 
