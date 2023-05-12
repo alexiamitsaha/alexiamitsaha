@@ -27,7 +27,7 @@ Programming Language: Python, Java, C#.Net & JavaScript, NodeJS Automation Frame
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-- **Quality Assurance Tech Stack:**                                 - **Working Experience**:
+- **Quality Assurance Tech Stack:**<space></space><space></space><space></space><space></space>- **Working Experience**:
 
    ![HTML5](https://img.shields.io/badge/-HTML5-white)
    ![CSS3](https://img.shields.io/badge/-CSS3-white)
